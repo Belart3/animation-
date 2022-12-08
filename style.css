@@ -1,1 +1,13 @@
-
+.bar-container{
+    Display: flex;
+    Flex-direction: row;
+    Align-items: center;
+    Justify-content: space-evenly;
+    Height: 400px;
+    Width: 800px;
+    Background-color: black;
+}
+.animationBars{
+      Width: 100px;
+      Background-color: white;
+}
